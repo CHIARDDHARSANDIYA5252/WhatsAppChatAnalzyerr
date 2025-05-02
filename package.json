@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-chat-analyzer",
+  "version": "1.0.0",
+  "description": "A minimal package.json to allow npm commands in the WhatsApp Chat Analyzer project",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "build": "echo \"No build step required for this Python Streamlit app\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
